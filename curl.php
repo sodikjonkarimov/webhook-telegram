@@ -6,6 +6,7 @@
  * Time: 20:14
  */
 
+//loglarni yozish
 function mlog($text)
 {
         $date = date('Y-m-d H:i:s');
